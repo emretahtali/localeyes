@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196157813175",
+    "project_id": "imaginecup-9aa45",
+    "storage_bucket": "imaginecup-9aa45.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196157813175:android:1677a7c9b86b0a0a967832",
+        "android_client_info": {
+          "package_name": "com.example.imaginecup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDne3R2CoVFkVmrZAaKwZx0r3h1KRYPfdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
