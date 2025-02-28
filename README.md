@@ -18,7 +18,10 @@ Designed for tech-savvy travelers who value experiences over material goods, Loc
 With the global travel industry shifting towards immersive and meaningful experiences, Local Eyes aims to redefine how people explore new places by connecting them with authentic local experiences.
 
 ## Development Team
-- [Ömer Burak Taşkın] (https://github.com/OmerBurakTaskin)
-- [Beyzanur Güzel] (https://github.com/beyzanurguzel)
-- [Mehmet Arda Dönder] (https://github.com/MArDaSE)
-- [Emre Tahtalı] (https://github.com/emretahtali)
+[Ömer Burak Taşkın](https://github.com/OmerBurakTaskin)
+
+[Beyzanur Güzel](https://github.com/beyzanurguzel)
+
+[Mehmet Arda Dönder](https://github.com/MArDaSE)
+
+[Emre Tahtalı](https://github.com/emretahtali)
